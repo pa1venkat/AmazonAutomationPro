@@ -76,8 +76,8 @@ Author
 S Pavan Venkat
 QA Automation Engineer Trainee
 Email: pavanvenkat08@gmail.com
-LinkedIn: [Your LinkedIn URL]
-GitHub: [Your GitHub URL]
+LinkedIn: https://www.linkedin.com/in/pvsiddatapu
+GitHub:https://github.com/pa1venkat/
 
 ---
 
